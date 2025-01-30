@@ -8,7 +8,7 @@ from langchain_community.llms import OpenAI
 from openai import OpenAI as OpenAIClient
 
 # Sidebar - OpenAI API Key Input
-openai_api_key = st.sidebar.text_input('OpenAI API Key', type='LyD7YIOWHCRHCUhmSRqqP0ZhA81syk8M7B2lTh10v6CVaTe14awpyVoyYO9Au7bbAXBboFyqhPT3BlbkFJUTWBTSt0w8ttfjM8-XXDB0M3mEzaB2QeDc35dllXpxC5QIZvBBefiWkxje60mVZr6YCQiW1C8A')
+openai_api_key = st.sidebar.text_input('LyD7YIOWHCRHCUhmSRqqP0ZhA81syk8M7B2lTh10v6CVaTe14awpyVoyYO9Au7bbAXBboFyqhPT3BlbkFJUTWBTSt0w8ttfjM8-XXDB0M3mEzaB2QeDc35dllXpxC5QIZvBBefiWkxje60mVZr6YCQiW1C8A', type='password')
 
 # Dropdown Menu for Navigation
 selected_tab = st.selectbox(
