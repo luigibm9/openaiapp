@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://i.pinimg.com/564x/55/f4/9e/55f49eae8b9f7a21c30f15909296430a.jpg", caption="AI-Powered Streamlit App")
+st.image("https://as2.ftcdn.net/v2/jpg/03/87/24/67/1000_F_387246732_0g1S4gBxKbYoeFbEfsr1D92F8j2LGNn7.jpg", caption="AI-Powered Streamlit App")
 
 import requests
 import json
