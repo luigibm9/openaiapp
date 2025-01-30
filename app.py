@@ -1,4 +1,6 @@
 import streamlit as st
+st.image("https://i.pinimg.com/564x/55/f4/9e/55f49eae8b9f7a21c30f15909296430a.jpg", caption="AI-Powered Streamlit App")
+
 import requests
 import json
 import base64
